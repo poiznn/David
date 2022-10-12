@@ -1,0 +1,21 @@
+
+h1{
+    color:aqua;
+    text-align:center;
+}
+
+h3{
+    color: brown;
+    text-align: center;
+    font-size: medium;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.item {
+    
+}
